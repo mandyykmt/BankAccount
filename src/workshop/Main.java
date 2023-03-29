@@ -43,7 +43,7 @@ public class Main {
                     bankAccount.withdraw();
                     break; 
                 case 5:
-                    // input.close();
+                    input.close();
                     System.out.println("Adios, see you next time"); 
                     return; 
                 default:
